@@ -28,7 +28,3 @@ if __name__ == '__main__':
  
     print("The angle between Hour hand and Minute hand is",findAngle(hh, mm) )
     
-#Made by 
-#Name:- Sahil Singh,Bhanupriya, PN Venkata Sai
-#Roll No:- 21,22,23
-#Registration No:- 12221802,12222319,12220225
